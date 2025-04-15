@@ -1,0 +1,13 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shape -->
+  <rect x="0" y="8" width="32" height="24" rx="4" fill="#1976D2" />
+  
+  <!-- Silicone Drop Symbol -->
+  <path d="M8 16 C8 16 16 14 16 20 C16 26 8 24 8 24 C8 24 16 26 16 20 C16 14 8 16 8 16Z" fill="white" opacity="0.9" />
+  
+  <!-- Company Name -->
+  <text x="40" y="26" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">TRADE CO.</text>
+  
+  <!-- Tagline -->
+  <text x="40" y="34" font-family="Arial, sans-serif" font-size="8" fill="#666666">Silicone Solutions</text>
+</svg>
